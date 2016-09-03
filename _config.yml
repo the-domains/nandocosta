@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Nando Costa
+  email: nando.costa@live.com
 name: nandocosta
 cta:
   domain: null
